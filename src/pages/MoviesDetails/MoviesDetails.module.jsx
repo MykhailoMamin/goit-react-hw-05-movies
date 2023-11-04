@@ -65,7 +65,7 @@ export const FilmSubTitle = styled.h3`
 
 export const FilmDescr = styled.p`
   font-size: 16px;
-  color: #888888;
+  color: #ffffff;
   margin-bottom: 12px;
 `;
 

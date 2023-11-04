@@ -5,7 +5,7 @@ export const InputSearch = styled.input`
   font-size: 18px;
   line-height: 27px;
 
-  padding: 15px 16px;
+  padding: 10px 10px;
 
   color: rgba(255, 255, 255, 0.2);
 
@@ -25,7 +25,7 @@ export const ButtonSearch = styled.button`
   line-height: 27px;
 
   margin-left: 12px;
-  padding: 15px 16px;
+  padding: 10px 10px;
 
   color: rgba(255, 255, 255, 0.2);
 

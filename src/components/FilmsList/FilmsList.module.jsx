@@ -5,9 +5,9 @@ export const ListFilms = styled.ul`
 `;
 export const ItemFilms = styled.li`
   font-weight: 400;
-  font-size: 14px;
+  font-size: 12px;
 
-  background-color: #2a2a2a;
+  background-color: rgb(0 0 0);
   border-radius: 14px;
 
   :not(:last-child) {

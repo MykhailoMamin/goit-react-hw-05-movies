@@ -9,14 +9,10 @@ const SharedLayout = () => {
         <Navigation>
           <NavList>
             <NavItem>
-              <Link to="/">
-                Home<span>.</span>
-              </Link>
+              <Link to="/">Home</Link>
             </NavItem>
             <NavItem>
-              <Link to="/movies">
-                Movies<span>.</span>
-              </Link>
+              <Link to="/movies">Movies</Link>
             </NavItem>
           </NavList>
         </Navigation>

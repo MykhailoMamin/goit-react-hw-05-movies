@@ -10,7 +10,7 @@ export const NavList = styled.ul`
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 20px;
 
   display: flex;
   gap: 18px;
